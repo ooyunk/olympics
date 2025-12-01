@@ -1,0 +1,15 @@
+Canada
+
+--- HOSTING ---
+Olympics hosted in this country:
+Year    Type        City                          
+2010    Winter      Vancouver                     
+
+--- APPEARANCES ---
+Olympic appearances by this country:
+Year    Gold    Silver  Bronze  Total   
+2010    14      7       5       26      
+2016    4       3       15      22      
+2018    11      8       10      29      
+2022    4       8       14      26      
+2024    9       7       11      27      
