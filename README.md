@@ -1,2 +1,2 @@
 # olympics
-CS 1026 - Assignment 3
+CS1026 - Assignment 3
